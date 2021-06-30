@@ -41,6 +41,11 @@ router.get('/:id', async (req, res) => {
 
 
   // create a new tag
+      /* req.body should look like this...
+    {
+      "tag_name": "rock music",
+    }
+  */  
 router.post('/', async (req, res) => {
   try {
     const tagData = await Tag.create(req.body);
@@ -51,6 +56,11 @@ router.post('/', async (req, res) => {
 });
 
   // update a tag's name by its `id` value
+        /* req.body should look like this...
+    {
+      "tag_name": "rock music"
+    }
+  */  
 router.put('/:id', async (req, res) => {
   try {
     const tagData = await Tag.update(req.body, {
