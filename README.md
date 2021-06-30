@@ -8,7 +8,8 @@ This is the thirteenth assignment for the MSU Coding Bootcamp; To build the back
 
 ### Live Links
 - [Daniel Shoup's E-Commerce Back End Repisitory](https://github.com/danshoup/e-commerce-backend)
-- [Daniel Shoup's E-Commerce Back End Demo Video](https://drive.google.com/file/d/)
+- [Daniel Shoup's E-Commerce Back End Demo Video Part 1: VS Code](https://drive.google.com/file/d/15kASBcyVaj1ULiDYopa0ufxYTQJPUo1f/view)
+- [Daniel Shoup's E-Commerce Back End Demo Video Part 2: Insomnia Route Tests](https://drive.google.com/file/d/1CWhmNc7IDB9744oKr5sk8264juaU3Frv/view)
 
 
 ### E-Commerce Back End Screenshot
