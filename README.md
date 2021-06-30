@@ -11,9 +11,9 @@ This is the thirteenth assignment for the MSU Coding Bootcamp; To build the back
 - [Daniel Shoup's E-Commerce Back End Demo Video](https://drive.google.com/file/d/)
 
 
-### Note Taker Screenshot
+### E-Commerce Back End Screenshot
 
-![Application Screen Shot](./assets/13-orm-homework-demo-01.gif)
+![Application Screen Shot](./assets/backend_screenshot.png)
 
 
 ## Acceptance Criteria
